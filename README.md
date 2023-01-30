@@ -1,1 +1,1 @@
-# front-end-qr-code
+# front-end-qr-code.
